@@ -65,7 +65,7 @@ body{
 .card__product-img::after{
    
 
-    content: url(/images/icon-view.svg);
+    content: url(./images/icon-view.svg);
     background:var(--clr-primary-cyan);
     position: absolute;
     inset: 0;
